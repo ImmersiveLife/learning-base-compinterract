@@ -15,10 +15,12 @@
 * [Desktop | Настольные платформы](desktop/desktop-or-nastolnye-platformy/README.md)
   * [Общие команды](desktop/desktop-or-nastolnye-platformy/obshie-komandy.md)
   * [Windows](desktop/desktop-or-nastolnye-platformy/windows/README.md)
+    * [Запрет флешек системными средствами Windows](desktop/desktop-or-nastolnye-platformy/windows/zapret-fleshek-sistemnymi-sredstvami-windows.md)
     * [Горячие клавиши](desktop/desktop-or-nastolnye-platformy/windows/goryachie-klavishi.md)
     * [Командная строка (CMD)](desktop/desktop-or-nastolnye-platformy/windows/komandnaya-stroka-cmd.md)
     * [Автоматизация - создание .bat файлов](desktop/desktop-or-nastolnye-platformy/windows/avtomatizaciya-sozdanie-.bat-failov.md)
-  * [MAC OSx](desktop/desktop-or-nastolnye-platformy/mac-osx.md)
+  * [MAC OSx](desktop/desktop-or-nastolnye-platformy/mac-osx/README.md)
+    * [Как взламывают программы macOS](desktop/desktop-or-nastolnye-platformy/mac-osx/kak-vzlamyvayut-programmy-macos.md)
   * [Linux](desktop/desktop-or-nastolnye-platformy/linux.md)
 
 ## IOT
